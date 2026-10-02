@@ -1,3 +1,5 @@
+> **Estudo concluído.** Este repositório faz parte de uma série de seis estudos baseados em livro. Consulte o [índice da série](https://github.com/JVCSampaio/data-science-projects) e o [portfólio](https://github.com/JVCSampaio) para os projetos em destaque.
+
 # Projeto 4 — Ridge Regression e Regularização
 
 Regularização L2 (Ridge) aplicada a dados sintéticos e ao dataset real de cartões de crédito, com varredura do parâmetro de regularização `C` e validação cruzada de 10 folds.
